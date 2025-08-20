@@ -1,0 +1,41 @@
+.select-box {
+    height: 50px;
+}
+.number-input {
+
+    height: 40px;
+}
+.body{
+    padding: 0px 0 !important;
+}
+.header {
+    padding: 0px 0 !important;
+}
+.header label {
+    margin-top: -23px;
+}
+.header-logout {
+    padding: 0px 0 23px 0 !important;
+    margin-bottom: 10px !important;
+}
+.logout-button {
+    padding: 10px 20px !important;
+}
+#qty {
+    background-color: #c2b4b44a !important;
+    text-align: center;
+}
+.btn-home{
+    padding: 15px 24px 10px 25px !important;
+    font-size: 22px !important;
+}
+table th {
+    
+    padding: 2px !important;
+    margin: 0px;
+}
+table td {
+   
+    padding: 2px !important;
+    margin: 0px;
+}

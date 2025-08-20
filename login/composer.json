@@ -1,0 +1,16 @@
+{
+    "name": "mizanur.sifat/smartcount",
+    "autoload": {
+        "psr-4": {
+            "MizanurSifat\\Smartcount\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "composer init"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.2"
+    }
+}
